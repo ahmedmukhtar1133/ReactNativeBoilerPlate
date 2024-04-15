@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ios-connector",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/repeato-qa/ios-connector",
+      "state" : {
+        "branch" : "main",
+        "revision" : "eb133da31f19c3c54ac685fb836fb14e582cc9ee"
+      }
+    }
+  ],
+  "version" : 2
+}
